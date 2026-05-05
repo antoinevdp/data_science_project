@@ -1,0 +1,27 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Test and notebook caches
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Superpowers brainstorming artifacts
+.superpowers/
+
+# Git worktrees
+.worktrees/
+
+docs/superpowers/
+
+scripts
+
+tests/test_report_generator.py
+

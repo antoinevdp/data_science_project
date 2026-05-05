@@ -1,0 +1,5 @@
+model_name,weighted_f1,macro_f1,weighted_precision,weighted_recall,class_count
+random_forest,0.9782,0.8955,0.9782,0.9786,5
+hist_gradient_boosting,0.9753,0.8829,0.9754,0.9755,5
+mlp_classifier,0.9667,0.8486,0.9664,0.9674,5
+multinomial_logistic_regression,0.8844,0.5133,0.8731,0.9106,5
